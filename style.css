@@ -10,4 +10,5 @@ body {
 
 h1 {
     border: 1px solid royalblue;
+    border-radius: 10px;
 }
